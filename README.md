@@ -18,3 +18,4 @@ No installs. No setup. Just use.
 Contact
 Have questions or suggestions?  
 Email: [admin@tomllc.org](mailto:admin@tomllc.org)
+7-day refund if the bundle doesn’t run on your machine.
