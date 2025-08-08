@@ -9,7 +9,7 @@ What's Inside
 - Clip2QR – Convert copied text into QR codes
 
  How to Use
-1. Download the ZIP from [Releases](https://github.com/im-mr-baker/baker-utility-bundle/releases)
+1. Download the ZIP 
 2. Unzip to your preferred folder  
 3. Launch any app from its folder  
 
