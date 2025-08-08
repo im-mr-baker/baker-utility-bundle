@@ -21,4 +21,4 @@ Email: [admin@tomllc.org](mailto:admin@tomllc.org)
 7-day refund if the bundle doesn’t run on your machine.
 
 Buy here:
-https://buy.stripe.com/3cIfZgb9XfOFg7sfOz5wI01
+[https://buy.stripe.com/3cIfZgb9XfOFg7sfOz5wI01](https://buy.stripe.com/3cIfZgb9XfOFg7sfOz5wI01)
